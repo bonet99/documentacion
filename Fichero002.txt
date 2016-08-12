@@ -2,4 +2,4 @@ Segundo fichero de pruebas...
 pruebas de un proyecto con github
 
 
-nueva modificaciÃ³n
+nueva modificación
