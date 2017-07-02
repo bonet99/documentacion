@@ -1,0 +1,3 @@
+dir /w
+
+pause 
