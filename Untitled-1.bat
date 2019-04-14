@@ -1,3 +1,5 @@
 dir /w
 
 pause 
+pause
+
